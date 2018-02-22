@@ -1,4 +1,4 @@
-# BinanceNotNetAbort
+# BinanceDotnetAbort
 The repository is to be used for a demonstration of dotnet failure during the runtime.
 
 ## Compiling
@@ -7,7 +7,7 @@ The repository is to be used for a demonstration of dotnet failure during the ru
 
 ## Testing
 1. Upload contents of "publish" folder to linux environemt. In my case it's debian.
-2. Navigate to folder contents and run "while sleep 0.3 ; do dotnet TestCrash.dll ; done"
+2. On linux navigate to folder contents and run "while sleep 0.3 ; do dotnet TestCrash.dll ; done"
 3. You will soon see the "Aborted" message
 
 ## Links
