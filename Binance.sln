@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Binance", "src\Binance\Binance.csproj", "{560055C5-97FE-4D13-8E7F-9C4809E75716}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCrash", "TestCrash\TestCrash.csproj", "{74CE012A-7846-48B0-91A9-D4146D053F27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{560055C5-97FE-4D13-8E7F-9C4809E75716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{560055C5-97FE-4D13-8E7F-9C4809E75716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{560055C5-97FE-4D13-8E7F-9C4809E75716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{560055C5-97FE-4D13-8E7F-9C4809E75716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74CE012A-7846-48B0-91A9-D4146D053F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74CE012A-7846-48B0-91A9-D4146D053F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74CE012A-7846-48B0-91A9-D4146D053F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74CE012A-7846-48B0-91A9-D4146D053F27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D98031F-42D5-47D4-8F4E-D2B81629EEA4}
+	EndGlobalSection
+EndGlobal
